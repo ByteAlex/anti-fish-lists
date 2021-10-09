@@ -4,3 +4,4 @@ image.prntscr.com
 coinmarketcap.com
 cdn.shopify.com
 forms.office.com
+t.me
