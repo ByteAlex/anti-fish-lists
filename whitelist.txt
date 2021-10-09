@@ -5,3 +5,6 @@ coinmarketcap.com
 cdn.shopify.com
 forms.office.com
 t.me
+bit.ly
+bitly.com
+bitly.net
