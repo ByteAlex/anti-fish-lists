@@ -4,3 +4,16 @@ image.prntscr.com
 coinmarketcap.com
 cdn.shopify.com
 forms.office.com
+# Telegram
+t.me
+# Bit.ly
+bit.ly
+bitly.com
+bitly.net
+# Google
+goo.gl
+accounts.google.com
+youtube.com
+youtu.be
+# Apple
+apple.co
