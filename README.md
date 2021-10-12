@@ -1,4 +1,4 @@
-# anti-fish-whitelist
+# anti-fish-lists
 
 This project's purpose is to serve a publicly accessible whitelist for false posititves found via the [anti-fish-api serivce](https://anti-fish.bitflow.dev/).
 
