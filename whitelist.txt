@@ -24,4 +24,4 @@ wa.me
 # Misc
 i.ibb.co
 apkcombo.com
-articulo.mercadolibre.com.mx
+mercadolibre.com.mx
