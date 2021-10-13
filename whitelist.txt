@@ -31,7 +31,7 @@ cutt.ly
 # Misc
 i.ibb.co
 apkcombo.com
-wowhead.com
+es.wowhead.com
 mercadolibre.com.mx
 # Discord
 discord.app
