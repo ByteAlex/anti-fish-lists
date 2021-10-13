@@ -19,6 +19,8 @@ youtube.com
 youtu.be
 # Apple
 apple.co
+#Whatsapp
+wa.me
 # Misc
 i.ibb.co
 apkcombo.com
