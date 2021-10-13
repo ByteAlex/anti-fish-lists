@@ -22,6 +22,7 @@ apple.co
 #Whatsapp
 wa.me
 # Misc shortners
+tny.im
 gg.gg
 cutt.ly
 # Misc
