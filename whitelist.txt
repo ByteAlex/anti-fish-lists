@@ -30,3 +30,5 @@ apkcombo.com
 mercadolibre.com.mx
 # Discord
 discord.app
+# Microshite
+sway.office.com
