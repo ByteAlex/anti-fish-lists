@@ -21,6 +21,8 @@ youtu.be
 apple.co
 #Whatsapp
 wa.me
+# Misc shortners
+cutt.ly
 # Misc
 i.ibb.co
 apkcombo.com
