@@ -22,12 +22,16 @@ apple.co
 #Whatsapp
 wa.me
 # Misc shortners
+smarturl.it
+lnk.to
+hyperurl.co
 tny.im
 gg.gg
 cutt.ly
 # Misc
 i.ibb.co
 apkcombo.com
+es.wowhead.com
 mercadolibre.com.mx
 # Discord
 discord.app
