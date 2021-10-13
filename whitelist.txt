@@ -28,3 +28,5 @@ cutt.ly
 i.ibb.co
 apkcombo.com
 mercadolibre.com.mx
+# Discord
+discord.app
