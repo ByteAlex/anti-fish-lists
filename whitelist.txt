@@ -6,6 +6,8 @@ cdn.shopify.com
 forms.office.com
 # Telegram
 t.me
+#tinycc
+tiny.cc
 # Bit.ly
 bit.ly
 bitly.com
@@ -17,3 +19,6 @@ youtube.com
 youtu.be
 # Apple
 apple.co
+# Misc
+i.ibb.co
+apkcombo.com
