@@ -4,6 +4,7 @@ image.prntscr.com
 coinmarketcap.com
 cdn.shopify.com
 forms.office.com
+gumroad.com
 # Telegram
 t.me
 #tinycc
