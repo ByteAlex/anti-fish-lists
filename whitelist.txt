@@ -5,6 +5,9 @@ coinmarketcap.com
 cdn.shopify.com
 forms.office.com
 gumroad.com
+workupload.com
+storage.googleapis.com
+onedrive.live.com
 # Telegram
 t.me
 #tinycc
