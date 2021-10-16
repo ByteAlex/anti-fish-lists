@@ -37,6 +37,7 @@ i.ibb.co
 apkcombo.com
 es.wowhead.com
 mercadolibre.com.mx
+tidio.com
 # Discord
 discord.app
 # Microshite
