@@ -1,6 +1,6 @@
 # anti-fish-lists
 
-This project's purpose is to serve a publicly accessible whitelist for false posititves found via the [anti-fish-api serivce](https://anti-fish.bitflow.dev/).
+This projects purpose is to serve a publicly accessible whitelist for false posititves found via the [anti-fish-api serivce](https://anti-fish.bitflow.dev/).
 
 ## How it works
 The contents of the `whitelist.txt` are being pulled from the API once every 60 minutes. The API parses this as "one entry per line" and makes sure none of
