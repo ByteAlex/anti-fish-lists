@@ -33,6 +33,7 @@ tny.im
 gg.gg
 cutt.ly
 # Misc
+goo.su
 i.ibb.co
 apkcombo.com
 es.wowhead.com
