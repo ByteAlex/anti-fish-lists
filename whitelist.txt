@@ -43,4 +43,4 @@ tidio.com
 discord.app
 # Microshite
 sway.office.com
-# rockstargames.com
+rockstargames.com
