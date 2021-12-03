@@ -45,3 +45,4 @@ discord.app
 sway.office.com
 rockstargames.com
 noscript.net
+canva.com
