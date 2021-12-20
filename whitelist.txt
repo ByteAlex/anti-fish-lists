@@ -3,6 +3,7 @@ chat.whatsapp.com
 image.prntscr.com
 coinmarketcap.com
 cdn.shopify.com
+form.jotform.com
 forms.office.com
 gumroad.com
 workupload.com
