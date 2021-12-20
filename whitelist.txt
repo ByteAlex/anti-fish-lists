@@ -50,3 +50,4 @@ canva.com
 discord.gift
 nvidia.com
 jotform.com
+form.jotform.com
