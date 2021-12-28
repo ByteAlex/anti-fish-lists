@@ -2,6 +2,7 @@ web.whatsapp.com
 chat.whatsapp.com
 image.prntscr.com
 coinmarketcap.com
+dev.fosscord.com
 cdn.shopify.com
 form.jotform.com
 forms.office.com
