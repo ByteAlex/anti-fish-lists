@@ -33,6 +33,7 @@ lnk.to
 hyperurl.co
 tny.im
 gg.gg
+wixsite.com
 cutt.ly
 # Misc
 hopin.com
