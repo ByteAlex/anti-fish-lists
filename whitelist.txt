@@ -59,4 +59,5 @@ jsbin.com
 ovh.co.uk
 survey.alchemer.com
 adf.ly
+# Miscellaneous
 discordbots.app
