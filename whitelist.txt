@@ -59,3 +59,6 @@ jsbin.com
 ovh.co.uk
 survey.alchemer.com
 adf.ly
+ams3.digitaloceanspaces.com
+digitaloceanspaces.com
+backblazeb2.com
