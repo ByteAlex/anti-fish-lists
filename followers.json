@@ -1,0 +1,82 @@
+[
+  {
+    "domain": "goo.gl",
+    "include_subdomains": true,
+    "type": "HEADER"
+  },
+  {
+    "domain": "bit.ly",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "bitly.com",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "smarturl.it",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "hyperurl.co",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "tny.im",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "gg.gg",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "cutt.ly",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "tiny.cc",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "tinyurl.com",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "tiny.one",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "rotf.lol",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "goo.su",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "7i.se",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "urlz.fr",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
+    "domain": "rb.gy",
+    "include_subdomains": false,
+    "type": "HEADER"
+  }
+]
