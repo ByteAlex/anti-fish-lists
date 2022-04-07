@@ -69,3 +69,4 @@ cash.app
 codehs.com
 rb.gy
 beacons.ai
+firebasestorage.googleapis.com
