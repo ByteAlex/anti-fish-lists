@@ -71,3 +71,4 @@ rb.gy
 beacons.ai
 firebasestorage.googleapis.com
 amazonaws.com
+telegra.ph
