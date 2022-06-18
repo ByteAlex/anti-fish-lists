@@ -73,4 +73,5 @@ firebasestorage.googleapis.com
 amazonaws.com
 telegra.ph
 vodafone.de
-anaconda.org 
+anaconda.org
+cdpn.io
