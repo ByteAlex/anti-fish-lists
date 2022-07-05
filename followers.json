@@ -78,5 +78,10 @@
     "domain": "rb.gy",
     "include_subdomains": false,
     "type": "HEADER"
+  },
+  {
+    "domain": "inlnk.ru",
+    "include_subdomains": false,
+    "type": "META"
   }
 ]
