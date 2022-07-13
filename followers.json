@@ -83,5 +83,10 @@
     "domain": "inlnk.ru",
     "include_subdomains": false,
     "type": "META"
+  },
+  {
+    "domain": "clck.ru",
+    "include_subdomains": false,
+    "type": "HEADER"
   }
 ]
