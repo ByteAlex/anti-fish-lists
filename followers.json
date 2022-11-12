@@ -40,6 +40,11 @@
     "type": "HEADER"
   },
   {
+    "domain": "cutt.us",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
     "domain": "tiny.cc",
     "include_subdomains": false,
     "type": "HEADER"
