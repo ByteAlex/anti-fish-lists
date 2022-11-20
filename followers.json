@@ -88,5 +88,10 @@
     "domain": "clck.ru",
     "include_subdomains": false,
     "type": "HEADER"
-  }
+  },
+  {
+    "domain": "cutt.us",
+    "include_subdomains": false,
+    "type": "META"
+  },
 ]
