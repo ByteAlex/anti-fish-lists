@@ -93,5 +93,10 @@
     "domain": "cutt.us",
     "include_subdomains": false,
     "type": "META"
+  },
+  {
+    "domain": "qptr.ru",
+    "include_subdomains": false,
+    "type": "HEADER"
   }
 ]
