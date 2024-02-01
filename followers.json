@@ -98,10 +98,5 @@
     "domain": "qptr.ru",
     "include_subdomains": false,
     "type": "HEADER"
-  },
-  {
-    "domain": "go-link.ru",
-    "include_subdomains": false,
-    "type": "HEADER"
   }
 ]
