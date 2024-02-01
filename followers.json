@@ -102,6 +102,6 @@
   {
     "domain": "go-link.ru",
     "include_subdomains": false,
-    "type": "META"
+    "type": "HEADER"
   }
 ]
