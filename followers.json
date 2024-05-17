@@ -5,6 +5,11 @@
     "type": "HEADER"
   },
   {
+    "domain": "bitly.cx",
+    "include_subdomains": false,
+    "type": "HEADER"
+  },
+  {
     "domain": "bit.ly",
     "include_subdomains": false,
     "type": "HEADER"
