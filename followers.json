@@ -98,5 +98,10 @@
     "domain": "qptr.ru",
     "include_subdomains": false,
     "type": "HEADER"
+  },
+  {
+    "domain": "sc.link",
+    "include_subdomains": false,
+    "type": "HEADER"
   }
 ]
